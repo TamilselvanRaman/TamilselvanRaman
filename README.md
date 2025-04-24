@@ -69,7 +69,10 @@ A full-stack application for managing student admissions built using React, Expr
   ### 🧠 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamilselvanRaman&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TamilselvanRaman&theme=tokyonight&hide_border=true)
+
 
 </p>
 
