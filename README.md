@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamil Selvan R</h1>
-<h3 align="center">A passionate Full Stack Developer and 2nd Year B.Tech IT student at K.S.R. College of Engineering</h3>
+<h3 align="center">A passionate Full Stack Developer and 3nd Year B.Tech IT student at K.S.R. College of Engineering</h3>
 
 ---
 
