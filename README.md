@@ -66,9 +66,11 @@ A full-stack application for managing student admissions built using React, Expr
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:ceittamilselvanr26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  <a href="https://www.linkedin.com/in/tamil-selvan-r-4ba19527a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-  <a href="https://github.com/TamilselvanRaman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=fff" /></a>
+  ### 🧠 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamilselvanRaman&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TamilselvanRaman&theme=tokyonight&hide_border=true)
+
 </p>
 
 ---
