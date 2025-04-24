@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamil Selvan R</h1>
-<h3 align="center">A passionate Full Stack Developer and 3nd Year B.Tech IT student at K.S.R. College of Engineering</h3>
+<h3 align="center">A passionate Full Stack Developer and 3rd Year B.Tech IT student at K.S.R. College of Engineering</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 💼 Currently working on an **AI-based Real-Time Product Stock Management System** for e-commerce  
 🌱 Completed courses in **Python, IoT, and Web Development**  
 🎯 I love building **real-world solutions** with creative UIs and efficient backends  
-📫 How to reach me: `ceittamilselvanr26@gmail.com`
+📫 Reach me at: `ceittamilselvanr26@gmail.com`
 
 ---
 
@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
-**Backend & DB:**  
+**Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=fff)
@@ -45,10 +45,7 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=TamilselvanRaman&show_icons=true&theme=tokyonight" width="47%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=TamilselvanRaman&theme=tokyonight&hide_border=true" width="47%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TamilselvanRaman&show_icons=true&theme=tokyonight" width="47%" />
 </p>
 
 ---
@@ -56,7 +53,7 @@
 ### 📌 Featured Projects
 
 🔹 [**Expense Tracker Web App**](https://github.com/TamilselvanRaman/expense-tracker)  
-Built with React, Node.js, Express, Multer. Features JWT auth, image upload, income/expense management.
+Built with React, Node.js, Express, and Multer. Features JWT auth, image upload, and income/expense management.
 
 🔹 [**Online College Admission System**](https://github.com/TamilselvanRaman/college-admission-system)  
 A full-stack application for managing student admissions built using React, Express, and MongoDB.
@@ -66,17 +63,14 @@ A full-stack application for managing student admissions built using React, Expr
 ### 🌐 Connect With Me
 
 <p align="center">
-  ### 🧠 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamilselvanRaman&show_icons=true&theme=tokyonight)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TamilselvanRaman&theme=tokyonight&hide_border=true)
-
-
+  <a href="mailto:ceittamilselvanr26@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TamilselvanRaman" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
