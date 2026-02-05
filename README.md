@@ -1,76 +1,118 @@
 <h1 align="center">Hi 👋, I'm Tamil Selvan R</h1>
-<h3 align="center">A passionate Full Stack Developer and 3rd Year B.Tech IT student at K.S.R. College of Engineering</h3>
-
----
-
-### 🚀 About Me
-
-🎓 I’m currently pursuing **B.Tech in Information Technology**  
-🧠 I’m learning **MERN Stack, GSAP, and AI-based systems**  
-💼 Currently working on an **AI-based Real-Time Product Stock Management System** for e-commerce  
-🌱 Completed courses in **Python, IoT, and Web Development**  
-🎯 I love building **real-world solutions** with creative UIs and efficient backends  
-📫 Reach me at: `ceittamilselvanr26@gmail.com`
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff)
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=fff)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff)
-
----
-
-### 🔥 GitHub Stats
+<h3 align="center">Full Stack Developer | MERN • Java • Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TamilselvanRaman&show_icons=true&theme=tokyonight" width="47%" />
+  <a href="mailto:ceittamilselvanr26@gmail.com">📧 Email</a> •
+  <a href="https://github.com/TamilselvanRaman">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/tamilselvan-raman-758a45291">🔗 LinkedIn</a>
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🚀 About Me
 
-🔹 [**Expense Tracker Web App**](https://github.com/TamilselvanRaman/expense-tracker)  
-Built with React, Node.js, Express, and Multer. Features JWT auth, image upload, and income/expense management.
+💻 **Full Stack Developer** who learns by **building real products**, not just tutorials.  
+🧠 Strong in **API design, JWT auth, RBAC, database modeling**, and **clean architecture**.  
+⚙️ I care about **performance, scalability, and code that won’t embarrass me in 6 months**.  
+✨ Big fan of **modern UI + smooth animations** backed by solid backend logic.
 
-🔹 [**Online College Admission System**](https://github.com/TamilselvanRaman/college-admission-system)  
-A full-stack application for managing student admissions built using React, Express, and MongoDB.
+Old-school discipline. New-school tools. No shortcuts.
 
 ---
 
-### 🌐 Connect With Me
+## 🧑‍💻 Tech Stack
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,gsap&theme=dark" />
+</p>
+
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=dark" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,postman,vscode&theme=dark" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚚 LogiTrack – Role-Based Cargo Management System
+**MERN Stack + Java (Spring Boot)**
+
+🚀 Multi-role system (Admin, Business, Driver, Customer)  
+🔐 JWT Authentication + Role-Based Access Control  
+📦 Cargo assignment, tracking & request workflow  
+⚙️ Built in **two versions**: MERN & Java Full Stack  
+
+---
+
+### 🏥 UNI_BRAINS – Medical Consultation Platform
+**React • Tailwind • GSAP**
+
+🧠 Consultation-focused UI with smooth animations  
+📱 Fully responsive, modern layout  
+✨ High-performance frontend with clean UX  
+
+---
+
+### 🧠 Student Skill Tracker
+**Python • HTML • CSS**
+
+📊 Track skills, certifications & achievements  
+🔐 Secure backend logic  
+🎯 Simple, focused, and effective system design  
+
+---
+
+## 🎓 Education & Experience
+
+🎓 **B.Tech – Information Technology**  
+📍 K.S.R. College of Engineering (2022 – 2026)  
+📈 CGPA: 7.7 / 10  
+
+💼 **Freelance Full Stack Developer** (2025 – Present)  
+• Built multiple end-to-end real-world applications  
+• React + Tailwind + GSAP on frontend  
+• Node.js / Express / Spring Boot backends  
+• Secure APIs, auth flows, and database design  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:ceittamilselvanr26@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamilselvanRaman&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TamilselvanRaman&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:ceittamilselvanr26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://github.com/TamilselvanRaman" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/TamilselvanRaman">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/tamilselvan-raman-758a45291">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<div align="center">
+
+✨ *“Build real things. Ship clean code. Improve every day.”* ✨  
+
+</div>
