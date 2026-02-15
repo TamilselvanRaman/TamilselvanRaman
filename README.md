@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:ceittamilselvanr26@gmail.com">📧 Email</a> •
-  <a href="https://github.com/TamilselvanRaman">💻 GitHub</a> •
+  <a href="https://tamilselvanr.netlify.app/">💻 Portfolio</a> •
   <a href="https://linkedin.com/in/tamilselvan-raman-758a45291">🔗 LinkedIn</a>
 </p>
 
