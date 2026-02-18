@@ -1,96 +1,145 @@
-<h1 align="center">Hi 👋, I'm Tamil Selvan R</h1>
-<h3 align="center">Full Stack Developer | MERN • Java • Scalable Systems</h3>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<p align="center">
-  <a href="mailto:ceittamilselvanr26@gmail.com">📧 Email</a> •
-  <a href="https://tamilselvanr.netlify.app/">💻 Portfolio</a> •
-  <a href="https://linkedin.com/in/tamilselvan-raman-758a45291">🔗 LinkedIn</a>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Tamil Selvan R</strong>
+</h1>
+
+<h3>Full Stack Developer | MERN • Java • Scalable Systems</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm a full-stack developer who learns by building real applications, not just tutorials.
+    I design scalable backends, secure APIs, and responsive user interfaces that solve real problems.
+  </p>
+
+  <p>
+    I care about clean architecture, performance, and code quality.
+    Old-school discipline + modern tools = reliable software.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:ceittamilselvanr26@gmail.com"><img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" /></a>
+    <a href="https://tamilselvanr.netlify.app/"><img src="https://img.shields.io/badge/💻_Portfolio-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Freelance-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://github.com/TamilselvanRaman">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/tamilselvan-raman-758a45291">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
+
+  <img src="https://komarev.com/ghpvc/?username=TamilselvanRaman&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
+<br clear="all" />
 
 ---
 
 ## 🚀 About Me
 
-💻 **Full Stack Developer** who learns by **building real products**, not just tutorials.  
-🧠 Strong in **API design, JWT auth, RBAC, database modeling**, and **clean architecture**.  
-⚙️ I care about **performance, scalability, and code that won’t embarrass me in 6 months**.  
-✨ Big fan of **modern UI + smooth animations** backed by solid backend logic.
-
-Old-school discipline. New-school tools. No shortcuts.
+💻 Full Stack Developer who builds real-world applications  
+🧠 Strong in API design, JWT Authentication & RBAC  
+⚙️ Focused on scalability, performance & maintainable code  
+✨ Enjoy modern UI + smooth animations with strong backend logic  
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠️ Skills
 
-### ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,gsap&theme=dark" />
-</p>
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-### 🧠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,typescript" />
+<br/><br/>
 
-### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,postman,vscode&theme=dark" />
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<br/><br/>
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚚 LogiTrack – Role-Based Cargo Management System
-**MERN Stack + Java (Spring Boot)**
+### 🚚 LogiTrack – Cargo Management System
+**MERN + Spring Boot**
 
-🚀 Multi-role system (Admin, Business, Driver, Customer)  
-🔐 JWT Authentication + Role-Based Access Control  
-📦 Cargo assignment, tracking & request workflow  
-⚙️ Built in **two versions**: MERN & Java Full Stack  
+• Multi-role system (Admin, Business, Driver, Customer)  
+• JWT Authentication & Role-Based Access Control  
+• Cargo assignment and tracking workflow  
 
 ---
 
 ### 🏥 UNI_BRAINS – Medical Consultation Platform
 **React • Tailwind • GSAP**
 
-🧠 Consultation-focused UI with smooth animations  
-📱 Fully responsive, modern layout  
-✨ High-performance frontend with clean UX  
+• Responsive UI  
+• Smooth animations  
+• Optimized frontend performance  
 
 ---
 
 ### 🧠 Student Skill Tracker
 **Python • HTML • CSS**
 
-📊 Track skills, certifications & achievements  
-🔐 Secure backend logic  
-🎯 Simple, focused, and effective system design  
+• Track certifications and skills  
+• Secure data handling  
+• Simple and effective system design  
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education
 
-🎓 **B.Tech – Information Technology**  
-📍 K.S.R. College of Engineering (2022 – 2026)  
-📈 CGPA: 7.7 / 10  
-
-💼 **Freelance Full Stack Developer** (2025 – Present)  
-• Built multiple end-to-end real-world applications  
-• React + Tailwind + GSAP on frontend  
-• Node.js / Express / Spring Boot backends  
-• Secure APIs, auth flows, and database design  
+🎓 B.Tech – Information Technology  
+K.S.R. College of Engineering (2022 – 2026)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamilselvanRaman&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamilselvanRaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TamilselvanRaman&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TamilselvanRaman&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamilselvanRaman&theme=tokyonight" />
 </p>
 
 ---
@@ -113,6 +162,6 @@ Old-school discipline. New-school tools. No shortcuts.
 
 <div align="center">
 
-✨ *“Build real things. Ship clean code. Improve every day.”* ✨  
+✨ “Build real things. Ship clean code. Improve every day.” ✨  
 
 </div>
