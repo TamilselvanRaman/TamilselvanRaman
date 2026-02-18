@@ -1,0 +1,69 @@
+name: Update Featured Projects
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get repositories
+        run: |
+          curl -s https://api.github.com/users/TamilselvanRaman/repos > repos.json
+
+      - name: Generate project cards
+        run: |
+          python3 << 'EOF'
+import json, random, re
+
+username = "TamilselvanRaman"
+
+with open("repos.json") as f:
+    repos = json.load(f)
+
+# remove forks and profile repo
+repos = [r for r in repos if not r["fork"] and r["name"] != username]
+
+random.shuffle(repos)
+selected = repos[:4]
+
+cards = "## 🚀 Featured Projects\n\n<p align=\"center\">\n"
+
+for repo in selected:
+    name = repo["name"]
+    cards += f'  <a href="https://github.com/{username}/{name}">\n'
+    cards += f'    <img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo={name}&theme=tokyonight&hide_border=true" />\n'
+    cards += f'  </a>\n\n'
+
+cards += "</p>\n"
+
+with open("README.md", "r") as f:
+    content = f.read()
+
+new_content = re.sub(
+    r"<!-- START_PROJECTS -->.*<!-- END_PROJECTS -->",
+    f"<!-- START_PROJECTS -->\n{cards}\n<!-- END_PROJECTS -->",
+    content,
+    flags=re.S,
+)
+
+with open("README.md", "w") as f:
+    f.write(new_content)
+EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "TamilselvanRaman"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto update featured projects" || echo "No changes"
+          git push
