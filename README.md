@@ -93,30 +93,9 @@
 
 ## 📌 Featured Projects
 
-### 🚚 LogiTrack – Cargo Management System
-**MERN + Spring Boot**
-
-• Multi-role system (Admin, Business, Driver, Customer)  
-• JWT Authentication & Role-Based Access Control  
-• Cargo assignment and tracking workflow  
-
----
-
-### 🏥 UNI_BRAINS – Medical Consultation Platform
-**React • Tailwind • GSAP**
-
-• Responsive UI  
-• Smooth animations  
-• Optimized frontend performance  
-
----
-
-### 🧠 Student Skill Tracker
-**Python • HTML • CSS**
-
-• Track certifications and skills  
-• Secure data handling  
-• Simple and effective system design  
+<!-- START_PROJECTS -->
+Loading projects...
+<!-- END_PROJECTS -->
 
 ---
 
